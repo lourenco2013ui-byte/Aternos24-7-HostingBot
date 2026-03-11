@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mineguard-yRD6.aternos.me",
+    "ip": "mineguard-yRD6.aternos.me:33131",
     "port": 33131,
     "version": "1.21.11",
     "try-creative": false
