@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mineguard-yRD6.aternos.me:33131",
-    "port": 33131,
+    "ip": "MidasSMP.aternos.me",
+    "port": 51283,
     "version": "1.21.11",
     "try-creative": false
   },
